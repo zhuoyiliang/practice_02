@@ -1,3 +1,6 @@
 [submodule "practice_02_front"]
 	path = practice_02_front
 	url = git@github.com:zhuoyiliang/practice_02_front.git
+[submodule "practice_02_back"]
+	path = practice_02_back
+	url = git@github.com:zhuoyiliang/practice_02_back.git
